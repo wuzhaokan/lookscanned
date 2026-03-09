@@ -39,3 +39,6 @@ $ npm run build # Build to dist/
 ## 📝 License
 
 MIT License
+
+Forked from the original project solely for personal self-hosting purpose.
+image: ghcr.io/wuzhaokan/lookscanned:latest
